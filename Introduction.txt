@@ -1,1 +1,2 @@
-Welcome to GroTech!
+Welcome to GroTechMinds!
+Practice git commands.
